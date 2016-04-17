@@ -10,7 +10,7 @@
 
 <br>
 #Step 1. Repository
-####Make new repository on your GitHub account or you can use this repo with the pull request.
+#####Make new repository on your GitHub account or you can use this repo with the pull request.
 
 
 <br>
