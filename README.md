@@ -2,15 +2,15 @@
 ###How to upload web site to <b>Microsoft Azure</b> using Visual Studio Code and GitHub public/private repository.
 
 ### Requirements for this tutorials:
-- ###DreamSpark, MSDN or BizSpark subscription, or any business account
-- ###Visual Studio Code
-- ###Git source control installed on your PC/Mac/Linux machine 
+- DreamSpark, MSDN or BizSpark subscription, or any business account
+- Visual Studio Code
+- Git source control installed on your PC/Mac/Linux machine 
 
 ### ... and good luck with this tutorial!
 
 <br>
 #Step 1. Repository
-###Make new repository on your GitHub account or you can use this repo with the pull request.
+####Make new repository on your GitHub account or you can use this repo with the pull request.
 
 
 <br>
