@@ -42,7 +42,7 @@ Make final changes on your local project/web site commit and do push to GitHub f
 Finally navigate to your Web App URL, if you don't know URL of your Web App. URL is simply a combination of: <b>Web App name + .azurewebsites.net </b>
 
 <br>
-#Congrats! Now you have your web site on Microsoft Azure published successfully.
+#Congrats! Now you have your web site successfully published on Microsoft Azure.
 Thank you for your attention &hearts; ... and I hope you find this tutorial helpful for you.
 You can find me at:
 - [My blog](http://almirvuk.blogspot.ba/)
